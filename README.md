@@ -1,4 +1,6 @@
 ### Hi there 👋
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zizi4n5)
+
 
 <!--
 **akito/akito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
