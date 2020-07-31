@@ -1,6 +1,5 @@
 ### Hi there 👋
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=akito)
-
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api/top-langs/?username=akito)
 
 <!--
 **akito/akito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
