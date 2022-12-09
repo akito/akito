@@ -9,5 +9,4 @@ My current specialty is web application development using Ruby on Rails, React a
 - lives in Shonan (Japan).
 - play baseball, shortstop.
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=akito&count_private=true)
 
